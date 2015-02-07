@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "prozess": "0.6.x",
-    "zookeeper": "3.4.x",
+    "zookeeper": "3.4.6-4",
     "optimist": "0.6.x",
     "underscore": "1.5.x",
     "underscore.string": "2.3.x",
